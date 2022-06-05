@@ -35,7 +35,7 @@ export default function Result() {
         calculateScore(qna);
       })
       .catch((err) => console.log(err));
-  }, []);
+  });
 
   const calculateScore = (qna) => {
     let tempScore = qna.reduce((acc, curr) => {
