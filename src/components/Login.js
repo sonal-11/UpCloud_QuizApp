@@ -15,7 +15,7 @@ const getFreshModelObject = () => ({
 
 export default function Login() {
 
-  const { setContext, resetContext} = useStateContext();
+  const {context, setContext, resetContext} = useStateContext();
   const navigate = useNavigate();
 
   const { 
@@ -28,7 +28,7 @@ export default function Login() {
 
     useEffect(() => {
       resetContext()
-    })
+    }, [])
 
     const login = e => {
         e.preventDefault();
