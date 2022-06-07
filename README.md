@@ -1,6 +1,7 @@
 This was created By Sonal Kenche 
 
-As this Application Consists of Asp.Net and SQL management server Hosting is not allowed hence Attached some picture of this web application
+This was created using React components 
+As this Application Consists of Asp.Net for API routing and SQL management server for Database management Hosting is not allowed hence Attached some picture of this web application
 
 ![image](https://user-images.githubusercontent.com/70857209/172064108-09d733a0-cd66-45c0-bef5-c4a62537cf39.png)
 ![image](https://user-images.githubusercontent.com/70857209/172064122-345196d1-f0d9-4bf4-b5b2-03b16c0147cb.png)
